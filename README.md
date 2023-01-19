@@ -1,5 +1,3 @@
 ### 👋 Hi, I’m Ali Bagherifam
 
-- I'm learning Kotlin & Android stuff
-
-<img width="30" alt="kotlin" src="https://raw.github.com/alibagherifam/alibagherifam/master/kotlin.png"> <img width="50" alt="android" src="https://raw.github.com/alibagherifam/alibagherifam/master/android.png">
+- ### Passionate about &nbsp; <img width="22" alt="kotlin" src="https://raw.github.com/alibagherifam/alibagherifam/master/kotlin.png"> Kotlin&nbsp; & &nbsp; <img width="38" alt="android" src="https://raw.github.com/alibagherifam/alibagherifam/master/android.png"> Android stuff
